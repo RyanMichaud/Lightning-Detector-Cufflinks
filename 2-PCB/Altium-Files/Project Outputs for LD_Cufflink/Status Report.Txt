@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LightningDetector.PcbDoc]
+   Generated File[LightningDetector.GTO]
+   Generated File[LightningDetector.GTP]
+   Generated File[LightningDetector.GTS]
+   Generated File[LightningDetector.GTL]
+   Generated File[LightningDetector.GBL]
+   Generated File[LightningDetector.GBS]
+   Generated File[LightningDetector.GBP]
+   Generated File[LightningDetector.GBO]
+   Generated File[LightningDetector.GKO]
+   Generated File[LightningDetector.RUL]
+   Generated File[LightningDetector.EXTREP]
+   Generated File[LightningDetector.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 3:11:01 PM On 8/25/2019

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=VBat Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=LED_1 Pin=S2-3
+Removed Pin From Net: NetName=LED_1 Pin=S2-4
+Removed Member From Class: ClassName=LightningDetector Member=J1
+Change Component Footprint: Designator=S2 Old Footprint=SKRPADE010 New Footprint=USLPT2819DT2TR
+Change Component Comment : Designator=S2 Old Comment=SKRPANE010 New Comment=USLPT2819DT2TR
+Change component parameters: Designator = "S2"; Footprint = "USLPT2819DT2TR"; UniqueID = "\QUCGCEPT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/USLPT2819DT2TR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USLPT2819DT2TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "506-USLPT2819DT2TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=506-USLPT2819DT2TR"; VariantName = "[No Variations]"
+Added Component: Designator=J*(1769)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J*-1
+Added Pin To Net: NetName=VBat Pin=J*-2
+Added Pin To Net: NetName=GND Pin=S2-T1
+Added Pin To Net: NetName=GND Pin=S2-T2
+Added Pin To Net: NetName=LED_1 Pin=S2-T3
+Added Pin To Net: NetName=LED_1 Pin=S2-T4
+Added Member To Class: ClassName=LightningDetector Member=Component J* 1769
+Added Room: Name=LightningDetector

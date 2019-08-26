@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=Vdd Pin=D1-1
+Removed Pin From Net: NetName=LED_1 Pin=D1-2
+Removed Pin From Net: NetName=LED_3 Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=Vdd Pin=S1-2
+Removed Pin From Net: NetName=VBat Pin=S1-3
+Removed Pin From Net: NetName=LED_1 Pin=S2-T3
+Removed Pin From Net: NetName=LED_1 Pin=S2-T4
+Change Component Footprint: Designator=S1 Old Footprint=JS202011AQN New Footprint=JS102011SAQN
+Change Component Comment : Designator=S1 Old Comment=JS202011AQN New Comment=JS102011SAQN
+Change component parameters: Designator = "S1"; Footprint = "JS102011SAQN"; UniqueID = "\UYMHJPNC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.se/datasheet/2/60/js-1382693.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C&K Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "JS102011SAQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-JS102011SAQN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=Vdd Pin=D3-1
+Added Pin To Net: NetName=LED_3 Pin=D3-2
+Added Pin To Net: NetName=VBat Pin=S1-2
+Added Pin To Net: NetName=Vdd Pin=S1-3
+Added Pin To Net: NetName=LED_3 Pin=S2-T3
+Added Pin To Net: NetName=LED_3 Pin=S2-T4
+Added Member To Class: ClassName=LightningDetector Member=Component D1 LED0
+Added Room: Name=LightningDetector

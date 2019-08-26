@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vdd Pin=S1-3
+Removed Member From Class: ClassName=LightningDetector Member=S1
+Added Pin To Net: NetName=Vdd Pin=J1-2
+Change Net Name : Old Net Name=Vdd New Net Name=VBat
+Added Room: Name=LightningDetector
